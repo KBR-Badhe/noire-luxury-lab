@@ -1,10 +1,10 @@
-// ====== EDIT THESE SETTINGS ======
+    // ====== EDIT THESE SETTINGS ======
 const WHATSAPP_NUMBER = "919999999999"; // Replace with your WhatsApp number, e.g. 919876543210
 
 // Add your products here. To use a real photo, put the image in an "images" folder
 // and change image: "" to image: "images/your-photo.jpg".
 const products = [
-  { id: 1, name: "Daisy Crochet Earrings", price: 199, category: "Earrings", icon: "✿", image: "1341301535244940.jpg" },
+  { id: 1, name: "Daisy Crochet Earrings", price: 199, category: "Earrings", icon: "✿", image: "WhatsApp Image 2026-09-28 at 21.54.37 (1).jpeg" },
   { id: 2, name: "Blossom Bracelet", price: 249, category: "Bracelets", icon: "❀", image: "" },
   { id: 3, name: "Petal Necklace", price: 299, category: "Necklaces", icon: "✾", image: "" },
   { id: 4, name: "Mini Flower Ring", price: 149, category: "Rings", icon: "❋", image: "" },
